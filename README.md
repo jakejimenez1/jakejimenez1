@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+As I have gotten older, software engineering has become a bigger passion of mine, day by day. I still remember when I got introduced to coding when I was watching The Social Network for the fisrt time. Ever since that day I knew that I wanted to pursue a career in coding, which ultimately led me to computer science, more specifically software engineering. 
+
+The passion continued into University where I have been learning all that their is about computer science. From coding languages, data structures, algorithims, and much more. However, I still have much more to learn. I am looking forward to diving into the front end world and learning css, html, and javascript. I look forward to apply the skills I have at a Chicago based company.
+
+Technical Skills: C++, C, Python, Java, SQL
