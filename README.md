@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-As I have gotten older, software engineering has become a bigger passion of mine, day by day. I still remember when I got introduced to coding when I was watching The Social Network for the first time. Ever since that day I knew that I wanted to pursue a career in coding, which ultimately led me to computer science, more specifically software engineering. 
+As I have gotten older, my passion for technology and problem-solving has continued to grow. I still remember being introduced to coding when I watched my favorite movie, The Social Network, for the first time. Ever since that day, I knew I wanted to pursue a career in technology, which ultimately led me to Computer Science.
 
-The passion continued into University where I have been learning all that their is to know  about computer science. From coding languages, to data structures, to algorithims, and much more. However, I still have much more to learn. I am looking forward to diving into the front end world and learning css, html, and javascript. I look forward to apply the skills I have at a Chicago based company.
 
-Technical Skills: C++, C, Python, Java, SQL
+
+Throughout my time at the University of Illinois Chicago, I have developed a strong foundation in programming, data structures, algorithms, databases, and software engineering. Along the way, I discovered a growing interest in data analytics and the process of turning raw data into meaningful insights.
+
+
+
+What I enjoy most about analytics is bringing data to life through visualizations. I love taking large datasets, finding patterns and trends, and transforming them into clear, interactive dashboards that make information easier to understand and tell a story.
+
+
+
+I am currently applying my skills in SQL, Tableau, Power BI, Python, and Excel while continuing to build my software engineering foundation. I am excited to apply both my technical and analytical skills to real-world problems and continue growing in the field of data analytics.
